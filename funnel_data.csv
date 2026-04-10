@@ -1,0 +1,1001 @@
+user_id,segment,channel,plan,visited_landing_page,started_trial,activated,used_key_feature,converted_to_paid
+U0001,SMB,Organic,Basic,1,0,0,0,0
+U0002,Enterprise,Paid Search,Basic,1,0,0,0,0
+U0003,Mid-Market,Referral,Business,1,1,0,0,0
+U0004,SMB,Email,Basic,1,0,0,0,0
+U0005,SMB,Email,Basic,1,0,0,0,0
+U0006,SMB,Email,Pro,1,0,0,0,0
+U0007,SMB,Email,Basic,1,0,0,0,0
+U0008,Mid-Market,Email,Pro,1,1,1,0,0
+U0009,Mid-Market,Organic,Basic,1,0,0,0,0
+U0010,Mid-Market,Paid Search,Basic,1,1,1,1,1
+U0011,SMB,Organic,Basic,1,0,0,0,0
+U0012,Enterprise,Referral,Basic,1,1,1,0,0
+U0013,Mid-Market,Referral,Business,1,1,0,0,0
+U0014,SMB,Organic,Basic,1,1,1,0,0
+U0015,SMB,Email,Pro,1,0,0,0,0
+U0016,SMB,Referral,Basic,1,1,1,1,0
+U0017,SMB,Organic,Basic,1,0,0,0,0
+U0018,SMB,Paid Search,Business,1,1,0,0,0
+U0019,SMB,Referral,Basic,1,1,1,1,0
+U0020,SMB,Organic,Pro,1,0,0,0,0
+U0021,Mid-Market,Email,Business,1,1,1,0,0
+U0022,SMB,Organic,Pro,1,0,0,0,0
+U0023,SMB,Referral,Business,1,0,0,0,0
+U0024,SMB,Referral,Basic,1,1,0,0,0
+U0025,SMB,Referral,Basic,1,1,0,0,0
+U0026,Mid-Market,Paid Search,Basic,1,1,0,0,0
+U0027,SMB,Referral,Pro,1,0,0,0,0
+U0028,SMB,Email,Business,1,0,0,0,0
+U0029,SMB,Organic,Basic,1,0,0,0,0
+U0030,SMB,Email,Pro,1,0,0,0,0
+U0031,Mid-Market,Organic,Basic,1,1,0,0,0
+U0032,SMB,Paid Search,Pro,1,1,1,1,1
+U0033,SMB,Organic,Basic,1,0,0,0,0
+U0034,Enterprise,Organic,Business,1,1,0,0,0
+U0035,Enterprise,Organic,Pro,1,1,1,1,0
+U0036,Mid-Market,Email,Basic,1,1,0,0,0
+U0037,SMB,Organic,Basic,1,0,0,0,0
+U0038,SMB,Email,Basic,1,0,0,0,0
+U0039,Mid-Market,Organic,Basic,1,1,0,0,0
+U0040,SMB,Organic,Basic,1,0,0,0,0
+U0041,SMB,Paid Search,Business,1,1,0,0,0
+U0042,SMB,Email,Pro,1,0,0,0,0
+U0043,SMB,Organic,Pro,1,1,1,1,0
+U0044,Enterprise,Paid Search,Basic,1,1,0,0,0
+U0045,SMB,Referral,Business,1,0,0,0,0
+U0046,Mid-Market,Paid Search,Pro,1,0,0,0,0
+U0047,SMB,Organic,Basic,1,0,0,0,0
+U0048,SMB,Organic,Pro,1,1,0,0,0
+U0049,SMB,Referral,Pro,1,1,0,0,0
+U0050,SMB,Organic,Basic,1,1,1,1,0
+U0051,Enterprise,Referral,Basic,1,1,0,0,0
+U0052,Mid-Market,Paid Search,Basic,1,0,0,0,0
+U0053,Enterprise,Referral,Basic,1,1,0,0,0
+U0054,Mid-Market,Email,Business,1,1,0,0,0
+U0055,SMB,Referral,Pro,1,0,0,0,0
+U0056,Enterprise,Paid Search,Pro,1,0,0,0,0
+U0057,SMB,Email,Basic,1,0,0,0,0
+U0058,SMB,Paid Search,Basic,1,1,1,1,0
+U0059,SMB,Paid Search,Pro,1,1,0,0,0
+U0060,SMB,Paid Search,Pro,1,0,0,0,0
+U0061,SMB,Referral,Basic,1,1,1,0,0
+U0062,SMB,Referral,Pro,1,1,1,0,0
+U0063,Mid-Market,Email,Pro,1,0,0,0,0
+U0064,SMB,Paid Search,Basic,1,0,0,0,0
+U0065,SMB,Paid Search,Basic,1,0,0,0,0
+U0066,SMB,Email,Pro,1,1,1,1,0
+U0067,SMB,Organic,Basic,1,1,1,1,0
+U0068,Mid-Market,Organic,Basic,1,0,0,0,0
+U0069,SMB,Paid Search,Basic,1,1,0,0,0
+U0070,Enterprise,Organic,Basic,1,0,0,0,0
+U0071,Mid-Market,Organic,Pro,1,0,0,0,0
+U0072,SMB,Organic,Pro,1,0,0,0,0
+U0073,SMB,Organic,Basic,1,1,0,0,0
+U0074,Mid-Market,Organic,Business,1,1,0,0,0
+U0075,Mid-Market,Referral,Business,1,0,0,0,0
+U0076,Mid-Market,Paid Search,Business,1,0,0,0,0
+U0077,Mid-Market,Paid Search,Basic,1,0,0,0,0
+U0078,SMB,Email,Basic,1,1,1,1,0
+U0079,SMB,Organic,Business,1,1,0,0,0
+U0080,SMB,Referral,Pro,1,0,0,0,0
+U0081,Mid-Market,Email,Basic,1,0,0,0,0
+U0082,Mid-Market,Organic,Basic,1,0,0,0,0
+U0083,SMB,Paid Search,Basic,1,1,0,0,0
+U0084,SMB,Referral,Business,1,0,0,0,0
+U0085,SMB,Referral,Pro,1,0,0,0,0
+U0086,SMB,Paid Search,Basic,1,0,0,0,0
+U0087,Mid-Market,Paid Search,Basic,1,1,1,0,0
+U0088,Mid-Market,Organic,Pro,1,1,0,0,0
+U0089,Mid-Market,Referral,Pro,1,0,0,0,0
+U0090,SMB,Organic,Basic,1,1,1,1,1
+U0091,SMB,Referral,Pro,1,0,0,0,0
+U0092,Mid-Market,Paid Search,Business,1,0,0,0,0
+U0093,Mid-Market,Paid Search,Basic,1,1,1,0,0
+U0094,SMB,Paid Search,Pro,1,0,0,0,0
+U0095,Mid-Market,Organic,Basic,1,1,1,1,1
+U0096,SMB,Organic,Pro,1,0,0,0,0
+U0097,SMB,Organic,Pro,1,0,0,0,0
+U0098,SMB,Organic,Pro,1,1,1,1,0
+U0099,SMB,Email,Pro,1,1,1,1,1
+U0100,SMB,Paid Search,Basic,1,0,0,0,0
+U0101,SMB,Organic,Business,1,1,0,0,0
+U0102,Mid-Market,Referral,Pro,1,0,0,0,0
+U0103,SMB,Referral,Basic,1,0,0,0,0
+U0104,SMB,Referral,Pro,1,0,0,0,0
+U0105,Enterprise,Referral,Pro,1,1,1,1,1
+U0106,SMB,Organic,Basic,1,0,0,0,0
+U0107,SMB,Paid Search,Business,1,0,0,0,0
+U0108,Mid-Market,Email,Business,1,1,1,1,1
+U0109,SMB,Email,Basic,1,0,0,0,0
+U0110,SMB,Organic,Business,1,0,0,0,0
+U0111,SMB,Email,Basic,1,0,0,0,0
+U0112,SMB,Organic,Basic,1,1,1,0,0
+U0113,Enterprise,Organic,Basic,1,0,0,0,0
+U0114,Mid-Market,Paid Search,Business,1,1,1,0,0
+U0115,Mid-Market,Paid Search,Pro,1,1,0,0,0
+U0116,Mid-Market,Paid Search,Basic,1,0,0,0,0
+U0117,Mid-Market,Organic,Basic,1,0,0,0,0
+U0118,SMB,Referral,Pro,1,1,1,1,0
+U0119,Mid-Market,Organic,Basic,1,1,1,0,0
+U0120,SMB,Organic,Business,1,1,0,0,0
+U0121,Mid-Market,Referral,Pro,1,1,1,1,1
+U0122,Mid-Market,Referral,Pro,1,1,1,0,0
+U0123,SMB,Referral,Business,1,1,0,0,0
+U0124,SMB,Email,Basic,1,0,0,0,0
+U0125,SMB,Email,Business,1,0,0,0,0
+U0126,SMB,Paid Search,Pro,1,0,0,0,0
+U0127,Mid-Market,Organic,Pro,1,0,0,0,0
+U0128,Mid-Market,Paid Search,Basic,1,1,0,0,0
+U0129,SMB,Paid Search,Business,1,0,0,0,0
+U0130,SMB,Organic,Basic,1,0,0,0,0
+U0131,SMB,Email,Basic,1,0,0,0,0
+U0132,SMB,Paid Search,Basic,1,0,0,0,0
+U0133,SMB,Organic,Pro,1,0,0,0,0
+U0134,SMB,Organic,Pro,1,0,0,0,0
+U0135,Enterprise,Email,Pro,1,1,0,0,0
+U0136,SMB,Organic,Business,1,0,0,0,0
+U0137,SMB,Referral,Basic,1,0,0,0,0
+U0138,Mid-Market,Paid Search,Pro,1,0,0,0,0
+U0139,SMB,Paid Search,Basic,1,0,0,0,0
+U0140,Enterprise,Paid Search,Business,1,1,0,0,0
+U0141,Enterprise,Email,Pro,1,1,1,1,0
+U0142,SMB,Organic,Pro,1,0,0,0,0
+U0143,SMB,Email,Pro,1,0,0,0,0
+U0144,SMB,Paid Search,Basic,1,0,0,0,0
+U0145,SMB,Organic,Basic,1,1,0,0,0
+U0146,SMB,Referral,Pro,1,1,0,0,0
+U0147,Mid-Market,Email,Basic,1,0,0,0,0
+U0148,SMB,Email,Basic,1,0,0,0,0
+U0149,SMB,Referral,Basic,1,0,0,0,0
+U0150,SMB,Referral,Pro,1,0,0,0,0
+U0151,Enterprise,Email,Basic,1,0,0,0,0
+U0152,SMB,Email,Basic,1,1,1,1,0
+U0153,SMB,Email,Pro,1,0,0,0,0
+U0154,SMB,Email,Pro,1,0,0,0,0
+U0155,Enterprise,Paid Search,Basic,1,0,0,0,0
+U0156,SMB,Email,Basic,1,0,0,0,0
+U0157,Mid-Market,Organic,Basic,1,0,0,0,0
+U0158,Mid-Market,Referral,Basic,1,1,0,0,0
+U0159,SMB,Referral,Basic,1,0,0,0,0
+U0160,Mid-Market,Organic,Pro,1,1,0,0,0
+U0161,SMB,Email,Pro,1,0,0,0,0
+U0162,Mid-Market,Organic,Pro,1,1,1,1,1
+U0163,Mid-Market,Organic,Basic,1,1,1,1,1
+U0164,SMB,Email,Pro,1,0,0,0,0
+U0165,SMB,Organic,Basic,1,1,0,0,0
+U0166,Mid-Market,Email,Business,1,0,0,0,0
+U0167,SMB,Email,Pro,1,0,0,0,0
+U0168,SMB,Paid Search,Basic,1,1,1,1,0
+U0169,SMB,Organic,Pro,1,0,0,0,0
+U0170,SMB,Organic,Basic,1,1,1,0,0
+U0171,Mid-Market,Paid Search,Pro,1,0,0,0,0
+U0172,SMB,Referral,Basic,1,1,0,0,0
+U0173,SMB,Paid Search,Basic,1,1,1,1,1
+U0174,SMB,Organic,Business,1,1,1,1,0
+U0175,Mid-Market,Paid Search,Basic,1,1,0,0,0
+U0176,SMB,Paid Search,Pro,1,1,0,0,0
+U0177,Mid-Market,Email,Basic,1,0,0,0,0
+U0178,SMB,Organic,Pro,1,0,0,0,0
+U0179,Enterprise,Email,Pro,1,0,0,0,0
+U0180,SMB,Paid Search,Pro,1,0,0,0,0
+U0181,SMB,Referral,Basic,1,1,1,1,0
+U0182,SMB,Organic,Basic,1,1,0,0,0
+U0183,Enterprise,Paid Search,Basic,1,1,0,0,0
+U0184,Mid-Market,Referral,Basic,1,1,1,0,0
+U0185,SMB,Organic,Pro,1,0,0,0,0
+U0186,Mid-Market,Referral,Business,1,0,0,0,0
+U0187,Mid-Market,Email,Business,1,1,1,0,0
+U0188,SMB,Organic,Pro,1,1,0,0,0
+U0189,SMB,Organic,Pro,1,0,0,0,0
+U0190,SMB,Email,Pro,1,0,0,0,0
+U0191,SMB,Organic,Basic,1,1,0,0,0
+U0192,Mid-Market,Paid Search,Business,1,0,0,0,0
+U0193,Enterprise,Organic,Pro,1,0,0,0,0
+U0194,Mid-Market,Paid Search,Pro,1,1,0,0,0
+U0195,SMB,Organic,Basic,1,1,0,0,0
+U0196,SMB,Referral,Basic,1,0,0,0,0
+U0197,Mid-Market,Referral,Basic,1,0,0,0,0
+U0198,Mid-Market,Referral,Business,1,0,0,0,0
+U0199,Mid-Market,Email,Pro,1,1,1,1,1
+U0200,Mid-Market,Organic,Basic,1,1,0,0,0
+U0201,Mid-Market,Email,Business,1,0,0,0,0
+U0202,SMB,Organic,Basic,1,0,0,0,0
+U0203,SMB,Organic,Basic,1,1,1,0,0
+U0204,Mid-Market,Organic,Basic,1,0,0,0,0
+U0205,Mid-Market,Paid Search,Pro,1,0,0,0,0
+U0206,SMB,Email,Business,1,0,0,0,0
+U0207,SMB,Email,Basic,1,0,0,0,0
+U0208,Mid-Market,Paid Search,Business,1,0,0,0,0
+U0209,SMB,Organic,Basic,1,0,0,0,0
+U0210,SMB,Referral,Business,1,0,0,0,0
+U0211,SMB,Paid Search,Pro,1,1,1,0,0
+U0212,Mid-Market,Paid Search,Pro,1,0,0,0,0
+U0213,Mid-Market,Organic,Basic,1,1,1,1,0
+U0214,SMB,Email,Business,1,0,0,0,0
+U0215,Mid-Market,Email,Pro,1,1,0,0,0
+U0216,SMB,Organic,Basic,1,1,0,0,0
+U0217,SMB,Organic,Pro,1,1,1,1,1
+U0218,Mid-Market,Email,Basic,1,1,1,0,0
+U0219,Mid-Market,Email,Business,1,0,0,0,0
+U0220,Mid-Market,Organic,Basic,1,0,0,0,0
+U0221,Mid-Market,Referral,Pro,1,0,0,0,0
+U0222,SMB,Organic,Pro,1,1,0,0,0
+U0223,SMB,Paid Search,Basic,1,1,0,0,0
+U0224,SMB,Referral,Basic,1,1,0,0,0
+U0225,SMB,Paid Search,Basic,1,1,0,0,0
+U0226,SMB,Paid Search,Basic,1,0,0,0,0
+U0227,Enterprise,Paid Search,Basic,1,1,1,1,1
+U0228,SMB,Organic,Pro,1,1,0,0,0
+U0229,Mid-Market,Referral,Basic,1,1,1,1,0
+U0230,Mid-Market,Paid Search,Basic,1,1,1,1,0
+U0231,Mid-Market,Referral,Pro,1,0,0,0,0
+U0232,SMB,Organic,Basic,1,0,0,0,0
+U0233,SMB,Organic,Business,1,1,1,0,0
+U0234,SMB,Organic,Business,1,1,0,0,0
+U0235,SMB,Email,Pro,1,1,1,1,1
+U0236,Mid-Market,Paid Search,Pro,1,1,1,1,0
+U0237,SMB,Referral,Business,1,1,1,0,0
+U0238,SMB,Paid Search,Basic,1,0,0,0,0
+U0239,Mid-Market,Referral,Basic,1,0,0,0,0
+U0240,SMB,Organic,Basic,1,0,0,0,0
+U0241,Enterprise,Referral,Pro,1,1,0,0,0
+U0242,Enterprise,Email,Basic,1,0,0,0,0
+U0243,Enterprise,Email,Pro,1,0,0,0,0
+U0244,SMB,Email,Business,1,0,0,0,0
+U0245,SMB,Email,Business,1,0,0,0,0
+U0246,Enterprise,Paid Search,Pro,1,1,0,0,0
+U0247,SMB,Organic,Basic,1,0,0,0,0
+U0248,Enterprise,Organic,Pro,1,1,1,0,0
+U0249,Enterprise,Referral,Pro,1,0,0,0,0
+U0250,Mid-Market,Paid Search,Basic,1,0,0,0,0
+U0251,SMB,Email,Basic,1,0,0,0,0
+U0252,SMB,Paid Search,Business,1,1,1,0,0
+U0253,Mid-Market,Organic,Pro,1,0,0,0,0
+U0254,SMB,Organic,Pro,1,1,1,1,1
+U0255,SMB,Email,Business,1,1,1,0,0
+U0256,SMB,Paid Search,Pro,1,1,0,0,0
+U0257,Enterprise,Organic,Pro,1,0,0,0,0
+U0258,Mid-Market,Paid Search,Basic,1,1,1,1,0
+U0259,SMB,Organic,Basic,1,1,1,1,0
+U0260,SMB,Paid Search,Basic,1,0,0,0,0
+U0261,Mid-Market,Organic,Pro,1,1,1,1,1
+U0262,Enterprise,Email,Pro,1,0,0,0,0
+U0263,SMB,Organic,Business,1,1,1,1,1
+U0264,SMB,Paid Search,Basic,1,1,1,1,0
+U0265,Mid-Market,Organic,Pro,1,0,0,0,0
+U0266,Mid-Market,Organic,Pro,1,1,1,1,0
+U0267,Mid-Market,Paid Search,Pro,1,0,0,0,0
+U0268,Mid-Market,Paid Search,Pro,1,0,0,0,0
+U0269,SMB,Paid Search,Basic,1,0,0,0,0
+U0270,SMB,Organic,Pro,1,0,0,0,0
+U0271,Mid-Market,Email,Basic,1,1,0,0,0
+U0272,Mid-Market,Referral,Basic,1,1,0,0,0
+U0273,Mid-Market,Email,Basic,1,0,0,0,0
+U0274,Enterprise,Organic,Pro,1,0,0,0,0
+U0275,SMB,Paid Search,Business,1,0,0,0,0
+U0276,SMB,Organic,Pro,1,0,0,0,0
+U0277,Mid-Market,Organic,Pro,1,0,0,0,0
+U0278,Mid-Market,Referral,Pro,1,0,0,0,0
+U0279,Mid-Market,Organic,Pro,1,1,1,0,0
+U0280,Mid-Market,Paid Search,Basic,1,0,0,0,0
+U0281,Mid-Market,Paid Search,Basic,1,0,0,0,0
+U0282,SMB,Email,Basic,1,1,0,0,0
+U0283,SMB,Paid Search,Basic,1,0,0,0,0
+U0284,SMB,Organic,Basic,1,0,0,0,0
+U0285,SMB,Organic,Basic,1,0,0,0,0
+U0286,SMB,Paid Search,Basic,1,1,0,0,0
+U0287,SMB,Organic,Business,1,1,0,0,0
+U0288,SMB,Paid Search,Basic,1,0,0,0,0
+U0289,SMB,Organic,Basic,1,0,0,0,0
+U0290,SMB,Organic,Basic,1,1,0,0,0
+U0291,SMB,Paid Search,Pro,1,1,1,1,1
+U0292,SMB,Organic,Basic,1,0,0,0,0
+U0293,Mid-Market,Paid Search,Basic,1,1,0,0,0
+U0294,SMB,Email,Pro,1,0,0,0,0
+U0295,SMB,Email,Basic,1,0,0,0,0
+U0296,SMB,Organic,Basic,1,1,1,1,0
+U0297,Mid-Market,Organic,Basic,1,0,0,0,0
+U0298,SMB,Organic,Basic,1,1,1,0,0
+U0299,Mid-Market,Paid Search,Basic,1,1,1,1,0
+U0300,SMB,Email,Basic,1,0,0,0,0
+U0301,SMB,Organic,Pro,1,0,0,0,0
+U0302,SMB,Referral,Pro,1,0,0,0,0
+U0303,SMB,Organic,Pro,1,0,0,0,0
+U0304,Mid-Market,Paid Search,Basic,1,1,0,0,0
+U0305,Mid-Market,Email,Business,1,1,0,0,0
+U0306,Enterprise,Referral,Basic,1,1,1,1,0
+U0307,SMB,Email,Basic,1,1,1,1,1
+U0308,SMB,Email,Pro,1,1,0,0,0
+U0309,Mid-Market,Organic,Basic,1,1,0,0,0
+U0310,SMB,Email,Basic,1,0,0,0,0
+U0311,SMB,Organic,Pro,1,0,0,0,0
+U0312,SMB,Referral,Business,1,0,0,0,0
+U0313,SMB,Paid Search,Basic,1,0,0,0,0
+U0314,Enterprise,Email,Pro,1,1,0,0,0
+U0315,Mid-Market,Paid Search,Business,1,1,0,0,0
+U0316,Mid-Market,Paid Search,Basic,1,0,0,0,0
+U0317,SMB,Paid Search,Basic,1,0,0,0,0
+U0318,SMB,Email,Basic,1,1,1,0,0
+U0319,SMB,Organic,Basic,1,0,0,0,0
+U0320,SMB,Organic,Basic,1,0,0,0,0
+U0321,SMB,Organic,Business,1,0,0,0,0
+U0322,Mid-Market,Organic,Pro,1,1,0,0,0
+U0323,Mid-Market,Referral,Pro,1,0,0,0,0
+U0324,SMB,Organic,Basic,1,0,0,0,0
+U0325,Enterprise,Referral,Pro,1,0,0,0,0
+U0326,Mid-Market,Organic,Business,1,0,0,0,0
+U0327,SMB,Organic,Pro,1,0,0,0,0
+U0328,Mid-Market,Email,Basic,1,0,0,0,0
+U0329,SMB,Email,Pro,1,1,1,1,0
+U0330,SMB,Paid Search,Basic,1,0,0,0,0
+U0331,SMB,Paid Search,Basic,1,0,0,0,0
+U0332,Mid-Market,Email,Basic,1,0,0,0,0
+U0333,SMB,Organic,Pro,1,1,1,1,0
+U0334,SMB,Referral,Pro,1,1,0,0,0
+U0335,SMB,Referral,Basic,1,0,0,0,0
+U0336,SMB,Email,Basic,1,0,0,0,0
+U0337,Mid-Market,Organic,Basic,1,0,0,0,0
+U0338,Mid-Market,Email,Basic,1,0,0,0,0
+U0339,SMB,Organic,Basic,1,0,0,0,0
+U0340,SMB,Organic,Basic,1,0,0,0,0
+U0341,SMB,Organic,Pro,1,0,0,0,0
+U0342,SMB,Paid Search,Basic,1,0,0,0,0
+U0343,SMB,Referral,Basic,1,0,0,0,0
+U0344,SMB,Email,Basic,1,1,0,0,0
+U0345,SMB,Email,Business,1,0,0,0,0
+U0346,Mid-Market,Paid Search,Pro,1,0,0,0,0
+U0347,Mid-Market,Organic,Pro,1,1,0,0,0
+U0348,SMB,Paid Search,Basic,1,1,0,0,0
+U0349,SMB,Referral,Pro,1,1,0,0,0
+U0350,Mid-Market,Organic,Basic,1,1,0,0,0
+U0351,SMB,Referral,Pro,1,1,0,0,0
+U0352,Mid-Market,Paid Search,Business,1,0,0,0,0
+U0353,Mid-Market,Paid Search,Pro,1,0,0,0,0
+U0354,SMB,Email,Business,1,0,0,0,0
+U0355,SMB,Paid Search,Pro,1,1,1,1,0
+U0356,Mid-Market,Referral,Basic,1,1,0,0,0
+U0357,SMB,Referral,Business,1,0,0,0,0
+U0358,SMB,Paid Search,Basic,1,1,0,0,0
+U0359,Enterprise,Organic,Pro,1,0,0,0,0
+U0360,SMB,Paid Search,Basic,1,0,0,0,0
+U0361,SMB,Referral,Basic,1,0,0,0,0
+U0362,Mid-Market,Organic,Basic,1,1,0,0,0
+U0363,SMB,Paid Search,Basic,1,0,0,0,0
+U0364,SMB,Paid Search,Basic,1,1,1,0,0
+U0365,Enterprise,Email,Pro,1,0,0,0,0
+U0366,SMB,Organic,Basic,1,0,0,0,0
+U0367,Enterprise,Email,Basic,1,1,1,0,0
+U0368,Enterprise,Referral,Pro,1,1,1,1,1
+U0369,SMB,Organic,Basic,1,1,1,0,0
+U0370,SMB,Organic,Pro,1,0,0,0,0
+U0371,SMB,Referral,Pro,1,1,1,1,0
+U0372,SMB,Organic,Pro,1,0,0,0,0
+U0373,SMB,Referral,Pro,1,1,1,1,0
+U0374,Mid-Market,Paid Search,Basic,1,0,0,0,0
+U0375,SMB,Organic,Pro,1,0,0,0,0
+U0376,SMB,Referral,Basic,1,0,0,0,0
+U0377,Mid-Market,Paid Search,Basic,1,0,0,0,0
+U0378,SMB,Paid Search,Pro,1,1,0,0,0
+U0379,Mid-Market,Paid Search,Basic,1,1,1,0,0
+U0380,SMB,Paid Search,Pro,1,0,0,0,0
+U0381,SMB,Organic,Pro,1,1,1,1,0
+U0382,Mid-Market,Paid Search,Business,1,0,0,0,0
+U0383,Mid-Market,Referral,Business,1,1,0,0,0
+U0384,Mid-Market,Organic,Basic,1,1,0,0,0
+U0385,Mid-Market,Email,Basic,1,1,0,0,0
+U0386,Mid-Market,Organic,Pro,1,0,0,0,0
+U0387,SMB,Email,Basic,1,1,0,0,0
+U0388,SMB,Organic,Pro,1,0,0,0,0
+U0389,Mid-Market,Referral,Pro,1,1,1,1,1
+U0390,Mid-Market,Paid Search,Pro,1,0,0,0,0
+U0391,Enterprise,Organic,Basic,1,1,1,1,1
+U0392,SMB,Organic,Basic,1,0,0,0,0
+U0393,SMB,Organic,Basic,1,0,0,0,0
+U0394,Mid-Market,Paid Search,Basic,1,1,1,1,0
+U0395,SMB,Organic,Business,1,0,0,0,0
+U0396,Enterprise,Email,Basic,1,0,0,0,0
+U0397,Mid-Market,Paid Search,Basic,1,0,0,0,0
+U0398,SMB,Organic,Basic,1,0,0,0,0
+U0399,Mid-Market,Paid Search,Pro,1,1,1,1,0
+U0400,Mid-Market,Email,Pro,1,0,0,0,0
+U0401,SMB,Organic,Basic,1,1,1,1,0
+U0402,Enterprise,Organic,Basic,1,1,1,0,0
+U0403,SMB,Organic,Basic,1,0,0,0,0
+U0404,Mid-Market,Email,Basic,1,1,1,1,0
+U0405,SMB,Email,Pro,1,0,0,0,0
+U0406,Mid-Market,Paid Search,Pro,1,0,0,0,0
+U0407,SMB,Email,Basic,1,0,0,0,0
+U0408,SMB,Email,Basic,1,0,0,0,0
+U0409,Enterprise,Paid Search,Business,1,1,1,1,0
+U0410,SMB,Referral,Basic,1,1,0,0,0
+U0411,SMB,Organic,Pro,1,1,1,0,0
+U0412,Enterprise,Organic,Basic,1,1,1,1,1
+U0413,Enterprise,Organic,Basic,1,1,0,0,0
+U0414,SMB,Organic,Basic,1,1,0,0,0
+U0415,Mid-Market,Paid Search,Pro,1,0,0,0,0
+U0416,SMB,Referral,Business,1,0,0,0,0
+U0417,SMB,Organic,Basic,1,1,1,1,0
+U0418,SMB,Organic,Basic,1,0,0,0,0
+U0419,Mid-Market,Paid Search,Basic,1,1,1,1,0
+U0420,Mid-Market,Referral,Basic,1,1,1,1,0
+U0421,Mid-Market,Organic,Basic,1,0,0,0,0
+U0422,Mid-Market,Paid Search,Basic,1,0,0,0,0
+U0423,SMB,Organic,Pro,1,0,0,0,0
+U0424,SMB,Organic,Basic,1,1,0,0,0
+U0425,SMB,Referral,Basic,1,0,0,0,0
+U0426,SMB,Referral,Business,1,0,0,0,0
+U0427,SMB,Organic,Basic,1,0,0,0,0
+U0428,Mid-Market,Referral,Business,1,0,0,0,0
+U0429,SMB,Paid Search,Basic,1,0,0,0,0
+U0430,SMB,Referral,Business,1,0,0,0,0
+U0431,SMB,Paid Search,Pro,1,0,0,0,0
+U0432,Mid-Market,Paid Search,Pro,1,0,0,0,0
+U0433,Mid-Market,Paid Search,Business,1,0,0,0,0
+U0434,SMB,Email,Basic,1,0,0,0,0
+U0435,SMB,Organic,Business,1,0,0,0,0
+U0436,Mid-Market,Organic,Basic,1,1,1,0,0
+U0437,SMB,Organic,Basic,1,1,1,1,0
+U0438,Mid-Market,Email,Basic,1,0,0,0,0
+U0439,Mid-Market,Organic,Pro,1,0,0,0,0
+U0440,SMB,Email,Basic,1,0,0,0,0
+U0441,SMB,Referral,Pro,1,1,0,0,0
+U0442,Enterprise,Organic,Pro,1,0,0,0,0
+U0443,SMB,Email,Pro,1,1,1,1,0
+U0444,SMB,Paid Search,Pro,1,0,0,0,0
+U0445,Mid-Market,Referral,Basic,1,0,0,0,0
+U0446,Enterprise,Organic,Basic,1,0,0,0,0
+U0447,Enterprise,Email,Basic,1,0,0,0,0
+U0448,Mid-Market,Email,Basic,1,0,0,0,0
+U0449,SMB,Referral,Basic,1,0,0,0,0
+U0450,SMB,Email,Basic,1,1,0,0,0
+U0451,Mid-Market,Paid Search,Basic,1,0,0,0,0
+U0452,SMB,Paid Search,Business,1,0,0,0,0
+U0453,SMB,Referral,Pro,1,0,0,0,0
+U0454,Enterprise,Paid Search,Basic,1,1,0,0,0
+U0455,SMB,Organic,Pro,1,0,0,0,0
+U0456,SMB,Referral,Basic,1,1,1,1,1
+U0457,SMB,Email,Basic,1,0,0,0,0
+U0458,SMB,Email,Pro,1,0,0,0,0
+U0459,SMB,Organic,Basic,1,0,0,0,0
+U0460,SMB,Email,Basic,1,0,0,0,0
+U0461,SMB,Paid Search,Business,1,1,1,0,0
+U0462,Mid-Market,Email,Business,1,1,1,1,0
+U0463,Mid-Market,Organic,Pro,1,0,0,0,0
+U0464,SMB,Email,Pro,1,0,0,0,0
+U0465,Enterprise,Referral,Pro,1,1,0,0,0
+U0466,SMB,Organic,Basic,1,0,0,0,0
+U0467,SMB,Referral,Basic,1,0,0,0,0
+U0468,Mid-Market,Paid Search,Basic,1,0,0,0,0
+U0469,SMB,Referral,Basic,1,0,0,0,0
+U0470,Enterprise,Email,Pro,1,1,0,0,0
+U0471,SMB,Paid Search,Basic,1,1,0,0,0
+U0472,Enterprise,Email,Business,1,0,0,0,0
+U0473,SMB,Referral,Business,1,0,0,0,0
+U0474,Mid-Market,Paid Search,Pro,1,0,0,0,0
+U0475,SMB,Organic,Pro,1,0,0,0,0
+U0476,Enterprise,Email,Business,1,0,0,0,0
+U0477,SMB,Email,Basic,1,0,0,0,0
+U0478,SMB,Email,Pro,1,0,0,0,0
+U0479,Enterprise,Email,Basic,1,0,0,0,0
+U0480,SMB,Paid Search,Pro,1,1,0,0,0
+U0481,Mid-Market,Email,Basic,1,1,1,0,0
+U0482,Mid-Market,Organic,Business,1,0,0,0,0
+U0483,SMB,Paid Search,Business,1,1,0,0,0
+U0484,Mid-Market,Organic,Basic,1,0,0,0,0
+U0485,SMB,Organic,Basic,1,0,0,0,0
+U0486,Enterprise,Paid Search,Business,1,0,0,0,0
+U0487,SMB,Paid Search,Basic,1,1,1,1,0
+U0488,SMB,Email,Business,1,1,1,0,0
+U0489,Enterprise,Paid Search,Pro,1,1,0,0,0
+U0490,Mid-Market,Paid Search,Basic,1,0,0,0,0
+U0491,SMB,Organic,Basic,1,1,1,1,0
+U0492,Mid-Market,Paid Search,Basic,1,0,0,0,0
+U0493,SMB,Organic,Pro,1,0,0,0,0
+U0494,SMB,Organic,Basic,1,0,0,0,0
+U0495,SMB,Paid Search,Pro,1,0,0,0,0
+U0496,SMB,Email,Basic,1,1,0,0,0
+U0497,SMB,Paid Search,Pro,1,0,0,0,0
+U0498,SMB,Paid Search,Business,1,0,0,0,0
+U0499,Enterprise,Paid Search,Business,1,1,1,1,1
+U0500,Enterprise,Referral,Basic,1,0,0,0,0
+U0501,Mid-Market,Paid Search,Pro,1,1,0,0,0
+U0502,SMB,Paid Search,Pro,1,0,0,0,0
+U0503,SMB,Organic,Pro,1,0,0,0,0
+U0504,Mid-Market,Organic,Business,1,1,1,1,1
+U0505,Mid-Market,Paid Search,Basic,1,0,0,0,0
+U0506,SMB,Paid Search,Basic,1,0,0,0,0
+U0507,Enterprise,Paid Search,Business,1,0,0,0,0
+U0508,Mid-Market,Paid Search,Basic,1,0,0,0,0
+U0509,Enterprise,Paid Search,Pro,1,0,0,0,0
+U0510,Mid-Market,Email,Business,1,1,0,0,0
+U0511,Mid-Market,Email,Basic,1,1,1,1,1
+U0512,SMB,Email,Business,1,1,1,0,0
+U0513,Enterprise,Referral,Basic,1,0,0,0,0
+U0514,Mid-Market,Organic,Pro,1,0,0,0,0
+U0515,SMB,Organic,Pro,1,0,0,0,0
+U0516,SMB,Organic,Business,1,0,0,0,0
+U0517,SMB,Paid Search,Basic,1,1,1,0,0
+U0518,Mid-Market,Referral,Basic,1,1,0,0,0
+U0519,Enterprise,Organic,Pro,1,1,1,1,0
+U0520,SMB,Referral,Pro,1,1,1,0,0
+U0521,SMB,Organic,Pro,1,1,0,0,0
+U0522,SMB,Referral,Basic,1,0,0,0,0
+U0523,Enterprise,Paid Search,Basic,1,1,0,0,0
+U0524,Mid-Market,Organic,Basic,1,1,0,0,0
+U0525,Mid-Market,Paid Search,Pro,1,1,0,0,0
+U0526,SMB,Organic,Basic,1,1,1,1,0
+U0527,SMB,Organic,Basic,1,0,0,0,0
+U0528,SMB,Organic,Business,1,0,0,0,0
+U0529,SMB,Email,Basic,1,0,0,0,0
+U0530,Mid-Market,Paid Search,Business,1,0,0,0,0
+U0531,Mid-Market,Organic,Pro,1,1,1,1,0
+U0532,Enterprise,Paid Search,Pro,1,0,0,0,0
+U0533,Enterprise,Email,Basic,1,1,1,0,0
+U0534,SMB,Organic,Basic,1,1,1,0,0
+U0535,Mid-Market,Paid Search,Pro,1,1,0,0,0
+U0536,Enterprise,Organic,Pro,1,1,0,0,0
+U0537,Mid-Market,Organic,Pro,1,1,1,1,0
+U0538,SMB,Email,Basic,1,1,0,0,0
+U0539,SMB,Organic,Pro,1,0,0,0,0
+U0540,SMB,Paid Search,Pro,1,1,1,1,0
+U0541,Enterprise,Email,Pro,1,1,1,1,1
+U0542,Mid-Market,Organic,Pro,1,0,0,0,0
+U0543,SMB,Paid Search,Pro,1,1,1,0,0
+U0544,Mid-Market,Organic,Pro,1,1,1,0,0
+U0545,Mid-Market,Referral,Basic,1,0,0,0,0
+U0546,SMB,Paid Search,Basic,1,1,0,0,0
+U0547,SMB,Email,Basic,1,1,1,1,0
+U0548,Mid-Market,Paid Search,Basic,1,0,0,0,0
+U0549,SMB,Organic,Basic,1,1,0,0,0
+U0550,Mid-Market,Paid Search,Basic,1,0,0,0,0
+U0551,SMB,Referral,Basic,1,0,0,0,0
+U0552,Mid-Market,Paid Search,Basic,1,1,1,1,0
+U0553,SMB,Email,Pro,1,0,0,0,0
+U0554,SMB,Referral,Business,1,0,0,0,0
+U0555,Mid-Market,Organic,Basic,1,1,1,0,0
+U0556,SMB,Organic,Business,1,0,0,0,0
+U0557,SMB,Paid Search,Pro,1,1,0,0,0
+U0558,SMB,Paid Search,Basic,1,0,0,0,0
+U0559,Mid-Market,Email,Basic,1,1,0,0,0
+U0560,Mid-Market,Referral,Pro,1,0,0,0,0
+U0561,Mid-Market,Paid Search,Pro,1,1,0,0,0
+U0562,SMB,Organic,Pro,1,0,0,0,0
+U0563,SMB,Email,Basic,1,1,0,0,0
+U0564,SMB,Organic,Basic,1,1,1,1,0
+U0565,SMB,Email,Basic,1,0,0,0,0
+U0566,SMB,Paid Search,Basic,1,0,0,0,0
+U0567,SMB,Email,Basic,1,0,0,0,0
+U0568,SMB,Organic,Basic,1,0,0,0,0
+U0569,Enterprise,Paid Search,Pro,1,0,0,0,0
+U0570,SMB,Paid Search,Business,1,0,0,0,0
+U0571,SMB,Paid Search,Basic,1,1,1,0,0
+U0572,Mid-Market,Organic,Business,1,0,0,0,0
+U0573,SMB,Email,Basic,1,0,0,0,0
+U0574,Mid-Market,Referral,Basic,1,0,0,0,0
+U0575,Mid-Market,Organic,Basic,1,0,0,0,0
+U0576,Enterprise,Organic,Pro,1,1,1,1,0
+U0577,SMB,Organic,Business,1,1,1,0,0
+U0578,Enterprise,Paid Search,Pro,1,0,0,0,0
+U0579,SMB,Paid Search,Basic,1,0,0,0,0
+U0580,SMB,Paid Search,Pro,1,0,0,0,0
+U0581,SMB,Organic,Basic,1,0,0,0,0
+U0582,Enterprise,Paid Search,Business,1,0,0,0,0
+U0583,SMB,Paid Search,Pro,1,1,0,0,0
+U0584,SMB,Paid Search,Basic,1,0,0,0,0
+U0585,Mid-Market,Referral,Pro,1,1,0,0,0
+U0586,SMB,Organic,Pro,1,1,0,0,0
+U0587,SMB,Email,Basic,1,0,0,0,0
+U0588,SMB,Paid Search,Pro,1,0,0,0,0
+U0589,SMB,Paid Search,Basic,1,1,0,0,0
+U0590,SMB,Email,Pro,1,1,0,0,0
+U0591,SMB,Email,Pro,1,0,0,0,0
+U0592,Mid-Market,Referral,Pro,1,1,1,1,1
+U0593,SMB,Organic,Pro,1,0,0,0,0
+U0594,SMB,Organic,Pro,1,0,0,0,0
+U0595,Mid-Market,Email,Basic,1,0,0,0,0
+U0596,SMB,Paid Search,Pro,1,0,0,0,0
+U0597,Mid-Market,Organic,Basic,1,1,0,0,0
+U0598,SMB,Organic,Basic,1,0,0,0,0
+U0599,SMB,Organic,Basic,1,1,1,0,0
+U0600,SMB,Referral,Basic,1,0,0,0,0
+U0601,SMB,Organic,Pro,1,1,1,1,0
+U0602,SMB,Organic,Basic,1,0,0,0,0
+U0603,SMB,Organic,Pro,1,1,0,0,0
+U0604,SMB,Paid Search,Basic,1,1,1,0,0
+U0605,SMB,Organic,Basic,1,1,0,0,0
+U0606,SMB,Paid Search,Pro,1,1,0,0,0
+U0607,SMB,Organic,Basic,1,0,0,0,0
+U0608,SMB,Email,Basic,1,1,1,0,0
+U0609,SMB,Organic,Pro,1,0,0,0,0
+U0610,Mid-Market,Paid Search,Basic,1,0,0,0,0
+U0611,SMB,Referral,Pro,1,0,0,0,0
+U0612,Mid-Market,Email,Basic,1,1,1,0,0
+U0613,Mid-Market,Paid Search,Basic,1,1,1,0,0
+U0614,SMB,Organic,Pro,1,0,0,0,0
+U0615,Mid-Market,Organic,Basic,1,1,1,1,1
+U0616,Enterprise,Email,Basic,1,1,1,0,0
+U0617,SMB,Referral,Basic,1,0,0,0,0
+U0618,SMB,Email,Basic,1,0,0,0,0
+U0619,Mid-Market,Paid Search,Pro,1,0,0,0,0
+U0620,Mid-Market,Email,Basic,1,1,0,0,0
+U0621,SMB,Paid Search,Pro,1,0,0,0,0
+U0622,SMB,Organic,Business,1,1,0,0,0
+U0623,SMB,Paid Search,Basic,1,1,1,0,0
+U0624,SMB,Referral,Business,1,0,0,0,0
+U0625,Mid-Market,Organic,Basic,1,1,0,0,0
+U0626,SMB,Email,Business,1,1,0,0,0
+U0627,SMB,Organic,Basic,1,1,1,1,0
+U0628,Mid-Market,Paid Search,Pro,1,0,0,0,0
+U0629,SMB,Organic,Basic,1,0,0,0,0
+U0630,SMB,Paid Search,Basic,1,0,0,0,0
+U0631,Mid-Market,Email,Pro,1,0,0,0,0
+U0632,Mid-Market,Organic,Pro,1,1,1,1,1
+U0633,SMB,Email,Basic,1,0,0,0,0
+U0634,SMB,Email,Basic,1,1,0,0,0
+U0635,SMB,Referral,Pro,1,1,1,1,0
+U0636,SMB,Organic,Pro,1,0,0,0,0
+U0637,SMB,Paid Search,Business,1,0,0,0,0
+U0638,SMB,Organic,Pro,1,1,0,0,0
+U0639,SMB,Referral,Business,1,1,0,0,0
+U0640,SMB,Referral,Pro,1,1,0,0,0
+U0641,SMB,Paid Search,Basic,1,1,0,0,0
+U0642,SMB,Email,Basic,1,0,0,0,0
+U0643,SMB,Paid Search,Pro,1,0,0,0,0
+U0644,SMB,Paid Search,Pro,1,0,0,0,0
+U0645,SMB,Organic,Basic,1,0,0,0,0
+U0646,Mid-Market,Email,Basic,1,1,0,0,0
+U0647,SMB,Organic,Business,1,0,0,0,0
+U0648,Mid-Market,Email,Pro,1,0,0,0,0
+U0649,Mid-Market,Email,Basic,1,0,0,0,0
+U0650,SMB,Email,Basic,1,0,0,0,0
+U0651,SMB,Organic,Basic,1,0,0,0,0
+U0652,SMB,Organic,Basic,1,1,0,0,0
+U0653,SMB,Organic,Basic,1,0,0,0,0
+U0654,Mid-Market,Paid Search,Basic,1,1,0,0,0
+U0655,SMB,Organic,Pro,1,1,1,1,1
+U0656,SMB,Referral,Basic,1,1,1,1,0
+U0657,SMB,Paid Search,Pro,1,1,0,0,0
+U0658,SMB,Organic,Business,1,0,0,0,0
+U0659,Mid-Market,Paid Search,Basic,1,0,0,0,0
+U0660,SMB,Paid Search,Pro,1,0,0,0,0
+U0661,SMB,Paid Search,Basic,1,0,0,0,0
+U0662,Enterprise,Paid Search,Business,1,0,0,0,0
+U0663,Mid-Market,Referral,Basic,1,1,1,0,0
+U0664,SMB,Paid Search,Pro,1,1,0,0,0
+U0665,SMB,Referral,Pro,1,0,0,0,0
+U0666,SMB,Referral,Basic,1,0,0,0,0
+U0667,SMB,Organic,Basic,1,0,0,0,0
+U0668,SMB,Referral,Pro,1,1,0,0,0
+U0669,SMB,Organic,Pro,1,1,0,0,0
+U0670,SMB,Email,Basic,1,0,0,0,0
+U0671,SMB,Paid Search,Pro,1,1,1,0,0
+U0672,Mid-Market,Referral,Basic,1,1,0,0,0
+U0673,SMB,Referral,Pro,1,0,0,0,0
+U0674,SMB,Email,Basic,1,1,1,1,1
+U0675,SMB,Email,Business,1,0,0,0,0
+U0676,Enterprise,Organic,Basic,1,1,0,0,0
+U0677,SMB,Organic,Basic,1,1,1,1,0
+U0678,SMB,Paid Search,Basic,1,1,0,0,0
+U0679,Enterprise,Organic,Basic,1,0,0,0,0
+U0680,Mid-Market,Email,Pro,1,1,0,0,0
+U0681,Mid-Market,Organic,Basic,1,0,0,0,0
+U0682,SMB,Referral,Pro,1,1,1,1,1
+U0683,SMB,Paid Search,Basic,1,0,0,0,0
+U0684,Mid-Market,Email,Basic,1,1,1,1,1
+U0685,Enterprise,Organic,Basic,1,0,0,0,0
+U0686,SMB,Referral,Basic,1,0,0,0,0
+U0687,SMB,Referral,Basic,1,0,0,0,0
+U0688,SMB,Paid Search,Basic,1,1,1,0,0
+U0689,Mid-Market,Paid Search,Basic,1,1,1,1,0
+U0690,SMB,Email,Basic,1,1,0,0,0
+U0691,SMB,Organic,Pro,1,0,0,0,0
+U0692,SMB,Paid Search,Pro,1,0,0,0,0
+U0693,SMB,Paid Search,Basic,1,0,0,0,0
+U0694,SMB,Organic,Basic,1,1,1,1,0
+U0695,SMB,Paid Search,Business,1,1,1,0,0
+U0696,Mid-Market,Organic,Pro,1,1,0,0,0
+U0697,SMB,Organic,Pro,1,0,0,0,0
+U0698,SMB,Organic,Basic,1,0,0,0,0
+U0699,SMB,Referral,Pro,1,0,0,0,0
+U0700,SMB,Paid Search,Pro,1,1,0,0,0
+U0701,SMB,Referral,Pro,1,0,0,0,0
+U0702,SMB,Paid Search,Business,1,0,0,0,0
+U0703,SMB,Organic,Basic,1,1,0,0,0
+U0704,SMB,Paid Search,Basic,1,0,0,0,0
+U0705,SMB,Paid Search,Pro,1,0,0,0,0
+U0706,Enterprise,Organic,Pro,1,0,0,0,0
+U0707,SMB,Paid Search,Basic,1,0,0,0,0
+U0708,Mid-Market,Organic,Basic,1,1,1,1,0
+U0709,SMB,Paid Search,Basic,1,1,0,0,0
+U0710,Mid-Market,Email,Basic,1,0,0,0,0
+U0711,Mid-Market,Organic,Pro,1,1,1,1,1
+U0712,SMB,Organic,Pro,1,0,0,0,0
+U0713,SMB,Email,Basic,1,0,0,0,0
+U0714,SMB,Paid Search,Basic,1,0,0,0,0
+U0715,SMB,Organic,Basic,1,0,0,0,0
+U0716,Enterprise,Referral,Basic,1,1,1,1,0
+U0717,Mid-Market,Organic,Pro,1,1,0,0,0
+U0718,Enterprise,Email,Business,1,1,0,0,0
+U0719,SMB,Referral,Pro,1,0,0,0,0
+U0720,Mid-Market,Organic,Basic,1,1,0,0,0
+U0721,Enterprise,Organic,Business,1,1,1,1,0
+U0722,SMB,Organic,Pro,1,0,0,0,0
+U0723,SMB,Organic,Pro,1,0,0,0,0
+U0724,Mid-Market,Organic,Basic,1,1,1,1,0
+U0725,SMB,Email,Basic,1,1,1,1,0
+U0726,Mid-Market,Organic,Basic,1,0,0,0,0
+U0727,SMB,Paid Search,Basic,1,1,0,0,0
+U0728,Mid-Market,Referral,Basic,1,1,0,0,0
+U0729,SMB,Email,Basic,1,1,0,0,0
+U0730,SMB,Paid Search,Basic,1,0,0,0,0
+U0731,SMB,Organic,Pro,1,1,1,0,0
+U0732,Mid-Market,Paid Search,Basic,1,0,0,0,0
+U0733,Mid-Market,Paid Search,Basic,1,0,0,0,0
+U0734,SMB,Paid Search,Business,1,0,0,0,0
+U0735,SMB,Organic,Business,1,1,1,0,0
+U0736,Mid-Market,Referral,Pro,1,0,0,0,0
+U0737,SMB,Paid Search,Business,1,0,0,0,0
+U0738,Mid-Market,Organic,Pro,1,0,0,0,0
+U0739,SMB,Paid Search,Business,1,0,0,0,0
+U0740,SMB,Paid Search,Basic,1,0,0,0,0
+U0741,SMB,Email,Basic,1,0,0,0,0
+U0742,SMB,Email,Basic,1,0,0,0,0
+U0743,Mid-Market,Email,Basic,1,0,0,0,0
+U0744,SMB,Organic,Basic,1,1,0,0,0
+U0745,SMB,Paid Search,Pro,1,1,1,1,0
+U0746,Mid-Market,Paid Search,Pro,1,1,1,0,0
+U0747,SMB,Organic,Pro,1,0,0,0,0
+U0748,SMB,Organic,Basic,1,1,1,0,0
+U0749,Enterprise,Email,Pro,1,1,1,0,0
+U0750,Mid-Market,Organic,Pro,1,0,0,0,0
+U0751,SMB,Paid Search,Basic,1,0,0,0,0
+U0752,Enterprise,Organic,Pro,1,0,0,0,0
+U0753,Mid-Market,Organic,Basic,1,1,0,0,0
+U0754,SMB,Organic,Basic,1,0,0,0,0
+U0755,SMB,Referral,Business,1,1,0,0,0
+U0756,Mid-Market,Email,Basic,1,1,0,0,0
+U0757,Mid-Market,Referral,Basic,1,1,1,0,0
+U0758,SMB,Paid Search,Business,1,1,0,0,0
+U0759,Mid-Market,Organic,Pro,1,0,0,0,0
+U0760,Mid-Market,Paid Search,Basic,1,0,0,0,0
+U0761,SMB,Paid Search,Basic,1,1,1,0,0
+U0762,SMB,Email,Basic,1,0,0,0,0
+U0763,SMB,Organic,Pro,1,0,0,0,0
+U0764,Mid-Market,Paid Search,Basic,1,1,1,1,1
+U0765,SMB,Organic,Basic,1,0,0,0,0
+U0766,SMB,Organic,Business,1,1,0,0,0
+U0767,Mid-Market,Email,Pro,1,0,0,0,0
+U0768,Mid-Market,Paid Search,Basic,1,0,0,0,0
+U0769,SMB,Paid Search,Pro,1,1,0,0,0
+U0770,Mid-Market,Paid Search,Pro,1,1,1,0,0
+U0771,SMB,Paid Search,Basic,1,0,0,0,0
+U0772,Mid-Market,Email,Basic,1,0,0,0,0
+U0773,SMB,Referral,Pro,1,1,1,1,0
+U0774,SMB,Referral,Basic,1,0,0,0,0
+U0775,Mid-Market,Email,Pro,1,0,0,0,0
+U0776,SMB,Organic,Basic,1,0,0,0,0
+U0777,SMB,Email,Basic,1,0,0,0,0
+U0778,Mid-Market,Paid Search,Basic,1,0,0,0,0
+U0779,Mid-Market,Organic,Basic,1,0,0,0,0
+U0780,Mid-Market,Email,Basic,1,0,0,0,0
+U0781,Mid-Market,Organic,Basic,1,1,1,0,0
+U0782,SMB,Referral,Pro,1,1,1,1,0
+U0783,SMB,Paid Search,Business,1,1,0,0,0
+U0784,SMB,Paid Search,Pro,1,0,0,0,0
+U0785,SMB,Email,Business,1,0,0,0,0
+U0786,Enterprise,Referral,Basic,1,1,1,0,0
+U0787,SMB,Paid Search,Business,1,0,0,0,0
+U0788,SMB,Paid Search,Basic,1,0,0,0,0
+U0789,SMB,Organic,Business,1,1,1,0,0
+U0790,Enterprise,Paid Search,Business,1,0,0,0,0
+U0791,SMB,Organic,Pro,1,1,1,1,0
+U0792,SMB,Email,Business,1,1,0,0,0
+U0793,SMB,Paid Search,Pro,1,0,0,0,0
+U0794,Mid-Market,Email,Basic,1,0,0,0,0
+U0795,SMB,Organic,Basic,1,1,1,1,0
+U0796,Mid-Market,Organic,Pro,1,0,0,0,0
+U0797,Enterprise,Email,Basic,1,0,0,0,0
+U0798,SMB,Organic,Pro,1,1,0,0,0
+U0799,Mid-Market,Organic,Business,1,1,1,0,0
+U0800,Enterprise,Organic,Basic,1,0,0,0,0
+U0801,Mid-Market,Referral,Pro,1,1,1,1,1
+U0802,SMB,Email,Business,1,0,0,0,0
+U0803,SMB,Paid Search,Business,1,0,0,0,0
+U0804,Mid-Market,Organic,Business,1,0,0,0,0
+U0805,SMB,Organic,Pro,1,1,0,0,0
+U0806,Mid-Market,Email,Business,1,0,0,0,0
+U0807,Enterprise,Email,Pro,1,0,0,0,0
+U0808,Enterprise,Organic,Basic,1,1,0,0,0
+U0809,SMB,Organic,Basic,1,1,1,0,0
+U0810,SMB,Organic,Pro,1,1,0,0,0
+U0811,Enterprise,Email,Basic,1,0,0,0,0
+U0812,Mid-Market,Email,Pro,1,0,0,0,0
+U0813,SMB,Organic,Pro,1,1,1,0,0
+U0814,Enterprise,Organic,Basic,1,0,0,0,0
+U0815,Mid-Market,Organic,Pro,1,1,0,0,0
+U0816,SMB,Referral,Pro,1,0,0,0,0
+U0817,SMB,Organic,Basic,1,1,0,0,0
+U0818,SMB,Email,Basic,1,0,0,0,0
+U0819,SMB,Paid Search,Basic,1,0,0,0,0
+U0820,SMB,Paid Search,Basic,1,0,0,0,0
+U0821,Mid-Market,Organic,Business,1,1,1,0,0
+U0822,SMB,Organic,Basic,1,1,1,1,0
+U0823,SMB,Paid Search,Pro,1,0,0,0,0
+U0824,SMB,Email,Basic,1,1,1,0,0
+U0825,SMB,Paid Search,Basic,1,1,1,1,1
+U0826,Enterprise,Paid Search,Pro,1,1,1,1,0
+U0827,SMB,Organic,Pro,1,0,0,0,0
+U0828,SMB,Referral,Basic,1,0,0,0,0
+U0829,Mid-Market,Email,Basic,1,0,0,0,0
+U0830,SMB,Organic,Basic,1,1,1,1,0
+U0831,SMB,Referral,Basic,1,1,0,0,0
+U0832,SMB,Paid Search,Pro,1,0,0,0,0
+U0833,SMB,Paid Search,Basic,1,0,0,0,0
+U0834,SMB,Email,Basic,1,1,1,1,0
+U0835,SMB,Email,Basic,1,0,0,0,0
+U0836,SMB,Email,Business,1,1,1,1,1
+U0837,Enterprise,Organic,Business,1,0,0,0,0
+U0838,SMB,Organic,Basic,1,1,1,1,0
+U0839,SMB,Referral,Pro,1,0,0,0,0
+U0840,Mid-Market,Organic,Basic,1,0,0,0,0
+U0841,SMB,Paid Search,Basic,1,0,0,0,0
+U0842,Mid-Market,Paid Search,Pro,1,1,0,0,0
+U0843,SMB,Paid Search,Business,1,0,0,0,0
+U0844,Enterprise,Paid Search,Business,1,1,1,1,1
+U0845,SMB,Referral,Pro,1,1,1,0,0
+U0846,SMB,Organic,Basic,1,0,0,0,0
+U0847,SMB,Organic,Pro,1,0,0,0,0
+U0848,Enterprise,Organic,Basic,1,0,0,0,0
+U0849,SMB,Referral,Pro,1,0,0,0,0
+U0850,SMB,Paid Search,Basic,1,1,1,1,1
+U0851,SMB,Organic,Pro,1,1,0,0,0
+U0852,Mid-Market,Email,Basic,1,1,1,0,0
+U0853,SMB,Referral,Basic,1,0,0,0,0
+U0854,Mid-Market,Email,Business,1,0,0,0,0
+U0855,SMB,Referral,Basic,1,0,0,0,0
+U0856,SMB,Organic,Pro,1,1,1,0,0
+U0857,SMB,Email,Basic,1,1,1,1,0
+U0858,SMB,Paid Search,Basic,1,0,0,0,0
+U0859,SMB,Email,Basic,1,1,0,0,0
+U0860,SMB,Email,Basic,1,0,0,0,0
+U0861,Mid-Market,Email,Business,1,0,0,0,0
+U0862,SMB,Email,Basic,1,0,0,0,0
+U0863,SMB,Organic,Business,1,1,1,1,0
+U0864,SMB,Paid Search,Pro,1,1,1,1,1
+U0865,SMB,Referral,Basic,1,1,1,0,0
+U0866,SMB,Referral,Pro,1,1,0,0,0
+U0867,SMB,Organic,Pro,1,1,1,0,0
+U0868,SMB,Organic,Pro,1,0,0,0,0
+U0869,Mid-Market,Organic,Basic,1,0,0,0,0
+U0870,Enterprise,Email,Basic,1,1,0,0,0
+U0871,SMB,Email,Business,1,1,1,1,0
+U0872,SMB,Organic,Business,1,1,1,1,1
+U0873,Mid-Market,Paid Search,Business,1,1,1,0,0
+U0874,SMB,Email,Basic,1,0,0,0,0
+U0875,SMB,Email,Pro,1,1,1,1,0
+U0876,SMB,Paid Search,Basic,1,1,0,0,0
+U0877,Mid-Market,Paid Search,Basic,1,1,0,0,0
+U0878,Mid-Market,Paid Search,Basic,1,0,0,0,0
+U0879,SMB,Organic,Pro,1,0,0,0,0
+U0880,SMB,Paid Search,Basic,1,1,0,0,0
+U0881,SMB,Email,Basic,1,0,0,0,0
+U0882,Mid-Market,Referral,Business,1,0,0,0,0
+U0883,SMB,Paid Search,Basic,1,0,0,0,0
+U0884,SMB,Email,Basic,1,1,1,0,0
+U0885,Mid-Market,Organic,Basic,1,0,0,0,0
+U0886,SMB,Paid Search,Business,1,0,0,0,0
+U0887,Mid-Market,Organic,Pro,1,0,0,0,0
+U0888,SMB,Organic,Basic,1,0,0,0,0
+U0889,SMB,Email,Pro,1,0,0,0,0
+U0890,SMB,Referral,Pro,1,1,0,0,0
+U0891,Mid-Market,Organic,Basic,1,0,0,0,0
+U0892,Mid-Market,Paid Search,Pro,1,0,0,0,0
+U0893,Mid-Market,Email,Pro,1,0,0,0,0
+U0894,SMB,Organic,Pro,1,0,0,0,0
+U0895,Mid-Market,Paid Search,Basic,1,0,0,0,0
+U0896,SMB,Email,Business,1,0,0,0,0
+U0897,SMB,Paid Search,Pro,1,1,1,0,0
+U0898,Mid-Market,Organic,Basic,1,0,0,0,0
+U0899,SMB,Paid Search,Basic,1,0,0,0,0
+U0900,SMB,Email,Basic,1,0,0,0,0
+U0901,SMB,Paid Search,Basic,1,0,0,0,0
+U0902,SMB,Organic,Pro,1,1,1,1,1
+U0903,SMB,Email,Basic,1,0,0,0,0
+U0904,SMB,Organic,Basic,1,1,1,1,0
+U0905,SMB,Email,Pro,1,0,0,0,0
+U0906,Mid-Market,Organic,Basic,1,0,0,0,0
+U0907,Mid-Market,Referral,Business,1,0,0,0,0
+U0908,SMB,Paid Search,Basic,1,1,1,0,0
+U0909,SMB,Organic,Basic,1,0,0,0,0
+U0910,SMB,Organic,Basic,1,1,1,1,0
+U0911,SMB,Organic,Basic,1,1,0,0,0
+U0912,SMB,Referral,Basic,1,1,0,0,0
+U0913,Mid-Market,Referral,Pro,1,1,1,0,0
+U0914,SMB,Paid Search,Business,1,0,0,0,0
+U0915,SMB,Paid Search,Basic,1,0,0,0,0
+U0916,SMB,Email,Pro,1,1,0,0,0
+U0917,SMB,Referral,Pro,1,0,0,0,0
+U0918,Enterprise,Paid Search,Pro,1,1,1,0,0
+U0919,Mid-Market,Paid Search,Basic,1,0,0,0,0
+U0920,SMB,Paid Search,Basic,1,0,0,0,0
+U0921,Mid-Market,Email,Basic,1,0,0,0,0
+U0922,SMB,Organic,Pro,1,1,0,0,0
+U0923,Mid-Market,Paid Search,Pro,1,0,0,0,0
+U0924,Mid-Market,Paid Search,Basic,1,1,0,0,0
+U0925,SMB,Email,Basic,1,0,0,0,0
+U0926,SMB,Organic,Business,1,1,1,0,0
+U0927,SMB,Paid Search,Pro,1,0,0,0,0
+U0928,SMB,Paid Search,Business,1,0,0,0,0
+U0929,Mid-Market,Paid Search,Pro,1,0,0,0,0
+U0930,SMB,Organic,Basic,1,1,0,0,0
+U0931,SMB,Paid Search,Pro,1,0,0,0,0
+U0932,Mid-Market,Paid Search,Pro,1,1,1,1,1
+U0933,Enterprise,Paid Search,Basic,1,0,0,0,0
+U0934,SMB,Paid Search,Pro,1,1,1,0,0
+U0935,SMB,Email,Pro,1,1,1,1,0
+U0936,SMB,Email,Basic,1,0,0,0,0
+U0937,SMB,Organic,Pro,1,1,0,0,0
+U0938,Enterprise,Email,Pro,1,1,0,0,0
+U0939,SMB,Paid Search,Business,1,1,0,0,0
+U0940,SMB,Organic,Basic,1,1,0,0,0
+U0941,SMB,Organic,Basic,1,0,0,0,0
+U0942,SMB,Organic,Pro,1,0,0,0,0
+U0943,Mid-Market,Email,Basic,1,1,0,0,0
+U0944,Mid-Market,Email,Pro,1,1,1,0,0
+U0945,SMB,Email,Pro,1,1,0,0,0
+U0946,SMB,Paid Search,Basic,1,1,0,0,0
+U0947,SMB,Paid Search,Pro,1,0,0,0,0
+U0948,Enterprise,Organic,Pro,1,0,0,0,0
+U0949,Mid-Market,Organic,Basic,1,1,0,0,0
+U0950,SMB,Paid Search,Business,1,1,0,0,0
+U0951,Mid-Market,Organic,Pro,1,1,1,1,0
+U0952,Mid-Market,Organic,Pro,1,0,0,0,0
+U0953,SMB,Paid Search,Pro,1,0,0,0,0
+U0954,Enterprise,Email,Basic,1,1,0,0,0
+U0955,SMB,Referral,Business,1,1,1,1,0
+U0956,SMB,Referral,Pro,1,0,0,0,0
+U0957,SMB,Paid Search,Pro,1,0,0,0,0
+U0958,SMB,Paid Search,Business,1,1,0,0,0
+U0959,SMB,Paid Search,Basic,1,1,1,0,0
+U0960,Mid-Market,Email,Pro,1,1,0,0,0
+U0961,SMB,Organic,Basic,1,0,0,0,0
+U0962,Mid-Market,Paid Search,Basic,1,1,1,0,0
+U0963,SMB,Email,Basic,1,1,1,1,0
+U0964,SMB,Paid Search,Business,1,0,0,0,0
+U0965,SMB,Paid Search,Business,1,1,1,1,1
+U0966,SMB,Paid Search,Pro,1,0,0,0,0
+U0967,Mid-Market,Organic,Pro,1,1,0,0,0
+U0968,SMB,Paid Search,Pro,1,1,0,0,0
+U0969,SMB,Organic,Business,1,0,0,0,0
+U0970,SMB,Organic,Basic,1,1,1,0,0
+U0971,Mid-Market,Organic,Basic,1,0,0,0,0
+U0972,Enterprise,Email,Basic,1,0,0,0,0
+U0973,Mid-Market,Organic,Pro,1,1,1,0,0
+U0974,SMB,Paid Search,Pro,1,0,0,0,0
+U0975,SMB,Organic,Basic,1,1,1,1,0
+U0976,SMB,Referral,Basic,1,0,0,0,0
+U0977,SMB,Organic,Pro,1,1,1,1,0
+U0978,SMB,Paid Search,Basic,1,0,0,0,0
+U0979,SMB,Referral,Pro,1,1,1,1,0
+U0980,SMB,Email,Business,1,0,0,0,0
+U0981,SMB,Organic,Basic,1,0,0,0,0
+U0982,Mid-Market,Email,Basic,1,0,0,0,0
+U0983,SMB,Paid Search,Pro,1,1,0,0,0
+U0984,SMB,Paid Search,Pro,1,1,0,0,0
+U0985,Mid-Market,Organic,Pro,1,0,0,0,0
+U0986,SMB,Organic,Business,1,0,0,0,0
+U0987,Mid-Market,Email,Basic,1,1,0,0,0
+U0988,SMB,Paid Search,Pro,1,0,0,0,0
+U0989,SMB,Paid Search,Pro,1,1,0,0,0
+U0990,Mid-Market,Email,Business,1,0,0,0,0
+U0991,Mid-Market,Email,Basic,1,1,0,0,0
+U0992,Mid-Market,Organic,Pro,1,1,0,0,0
+U0993,SMB,Paid Search,Pro,1,0,0,0,0
+U0994,SMB,Organic,Basic,1,1,0,0,0
+U0995,SMB,Email,Basic,1,0,0,0,0
+U0996,SMB,Email,Business,1,0,0,0,0
+U0997,Enterprise,Referral,Basic,1,1,1,1,0
+U0998,SMB,Organic,Basic,1,1,1,0,0
+U0999,Enterprise,Organic,Basic,1,0,0,0,0
+U1000,SMB,Organic,Business,1,1,0,0,0
