@@ -1,7 +1,7 @@
 # saas-funnel-analysis
 Análise do funil de conversão para um SaaS B2B usando Python e Pandas
 📊 SaaS Funnel Conversion Analysis
-🇧🇷 Português | 🇬🇧 English
+ Português |  English
 
 Português
 Sobre o projeto
@@ -28,7 +28,7 @@ Testar headline da LP focada em resultado vs. feature
 Guiar o usuário à key feature nas primeiras 24h do trial
 Criar sequência de email nurturing segmentada por plano
 
-Tecnologias
+Tecnologias: 
 Python Pandas NumPy Matplotlib Seaborn Jupyter Notebook
 Arquivos
 ArquivoDescriçãosaas_funnel_analysis.ipynbNotebook com análise completafunnel_data.csvDataset simulado com 1.000 usuários
@@ -58,7 +58,7 @@ Test outcome-focused vs. feature-focused LP headline
 Guide users to the key feature within the first 24h of trial
 Build a plan-segmented email nurturing sequence during trial
 
-Tech Stack
+Tech Stack: 
 Python Pandas NumPy Matplotlib Seaborn Jupyter Notebook
 Files
 FileDescriptionsaas_funnel_analysis.ipynbNotebook with full analysisfunnel_data.csvSimulated dataset with 1,000 users
